@@ -8,7 +8,7 @@ int main() {
       "142e651ab843c99afe6634f96b9fa4f8f82917cbde5a41379fdb68cd89e14dcc";
   APIClient api_client(api_key);
 
-  std::cout << "Available Couriers: " << std::endl;
+  std::cout << "Available Courier: " << std::endl;
   auto couriers = Courier::getAvailableCouriers();
   for (size_t i = 0; i < couriers.size(); ++i) {
     std::cout << i + 1 << ". " << couriers[i] << std::endl;

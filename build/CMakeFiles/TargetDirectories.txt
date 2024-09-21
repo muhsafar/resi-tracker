@@ -1,3 +1,0 @@
-/home/safarudin/GIT/resi-tracker/build/CMakeFiles/TrackingApp.dir
-/home/safarudin/GIT/resi-tracker/build/CMakeFiles/edit_cache.dir
-/home/safarudin/GIT/resi-tracker/build/CMakeFiles/rebuild_cache.dir

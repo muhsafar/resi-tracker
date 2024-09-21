@@ -1,1 +1,0 @@
-/usr/bin/c++ CMakeFiles/TrackingApp.dir/src/main.cpp.o CMakeFiles/TrackingApp.dir/src/api_client.cpp.o CMakeFiles/TrackingApp.dir/src/courier.cpp.o CMakeFiles/TrackingApp.dir/src/tracking.cpp.o -o TrackingApp  /usr/lib/x86_64-linux-gnu/libcurl.so 
